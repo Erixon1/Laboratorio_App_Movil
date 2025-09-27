@@ -30,3 +30,11 @@ Laboratorio07
 <img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/64a6dd9d-e3e4-4240-a828-7ce2b1fd3b24" />
 
 ---
+
+Laboratorio Integrador - NewsFlow
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/b9dabbc6-7dc3-49ff-9d69-d792cc484786" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/abc79b20-a4e9-48b4-b517-de786eb9f7ec" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/a366aead-6a38-419d-9d46-bc7ed5eb5f06" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/0fbaf11d-e210-40c3-a72e-aa46e6941738" />
+
+---
