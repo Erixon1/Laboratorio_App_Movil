@@ -39,3 +39,19 @@ Laboratorio Integrador - NewsFlow
 <img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/0fbaf11d-e210-40c3-a72e-aa46e6941738" />
 
 ---
+
+Laboratorio 8 mini - ApiLab
+---
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/5e99f261-9148-4e4b-97bc-19b2c3a40a25" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/2ee0238f-031d-412a-b383-eef5c6992244" />
+
+---
+
+Laboratorio 8 - UserPostsApp
+---
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/6c82e89f-1729-48c2-bf8e-efefb8b08462" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/d0b54d8d-996a-4913-aba1-e6274c2da6fa" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/abad98b0-c88d-4ad1-aeaf-302418951a49" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/c665d83a-7595-4c20-86aa-b0239c87a4d1" />
+
+---
