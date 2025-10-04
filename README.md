@@ -55,3 +55,12 @@ Laboratorio 8 - UserPostsApp
 <img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/c665d83a-7595-4c20-86aa-b0239c87a4d1" />
 
 ---
+
+Laboratorio 8 - PokeDex-Lite
+---
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/34badabe-efb4-4d0d-85ce-34af1d6949b4" />
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/e8302db1-7441-44d2-a9b5-9d954867d55b" />
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/b29dca5c-6ec7-4dd0-98fa-a2b604b05882" />
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/0c25229b-8e66-4d8b-908e-2195ab70984b" />
+
+---
