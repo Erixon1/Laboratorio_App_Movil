@@ -64,3 +64,13 @@ Laboratorio 8 - PokeDex-Lite
 <img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/0c25229b-8e66-4d8b-908e-2195ab70984b" />
 
 ---
+
+Laboratorio 9 - ShoppingListUtp
+---
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/80710f6e-5ec9-45d0-b900-6d4817b82992" />
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/9b5fe1f0-87d4-488e-8952-787d952aeee4" />
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/110bf256-3230-41b2-914e-9cbddba3e898" />
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/3cd144cf-7126-4dfc-a727-8338c09b56ad" />
+<img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/851f8fa7-f64b-4c3d-9d2f-0d2e8ef5bac3" />
+
+---
