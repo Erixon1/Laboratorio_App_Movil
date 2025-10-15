@@ -74,3 +74,14 @@ Laboratorio 9 - ShoppingListUtp
 <img width="247" height="880" alt="image" src="https://github.com/user-attachments/assets/851f8fa7-f64b-4c3d-9d2f-0d2e8ef5bac3" />
 
 ---
+
+
+Laboratorio 10 - NewsAppUTP
+---
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/ff24310c-a8c1-45eb-b3fb-b6b4f7705bac" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/a157198e-0fd9-4249-9d73-6564da019859" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/a7d6e994-80c0-4199-af89-043810ca7fce" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/0ee2350d-6ad6-4996-a6d5-31b53a33ab30" />
+<img width="247" height="800" alt="image" src="https://github.com/user-attachments/assets/241538ee-0dc4-4c63-9f42-89ab215a22df" />
+
+---
